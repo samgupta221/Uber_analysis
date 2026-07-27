@@ -107,8 +107,6 @@ The dataset contains Uber trip records including:
 
 ---
 
-## 📷 Dashboard Preview
-
 ### Home Page
 
 * Uber-inspired landing page
@@ -121,17 +119,5 @@ The dataset contains Uber trip records including:
 * Revenue Analysis
 * Booking Trends
 * Vehicle Performance Insights
-
----
-
-## 📌 Business Value
-
-This dashboard enables:
-
-* Better operational monitoring
-* Revenue performance tracking
-* Customer behavior analysis
-* Data-driven business decisions
-* Enhanced reporting efficiency
 
 ---
